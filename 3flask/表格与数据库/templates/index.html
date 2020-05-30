@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <th>用户名</th>
+        <th>密码</th>
+    </tr>
+
+    <tr>
+        {% if data.user %}
+        <td>{{ data.user }}</td>
+        <td>{{ data.pwd }}</td>
+        {% else %}
+        <td> gdit</td>
+        <td> 99 </td>
+        {%  endif  %}
+
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<html>
+<head>
+<title></title>
+<script type="text/javascript">
+          var jsonArray = [{"编号":"1001","名称":"k-means","描述":"K-means算法是硬聚类算法，是典型的基于原型的目标函数聚类方法的代表","操作":"<button>编辑</button>"},{"编号":"1002","名称":"restful","描述":"一种软件架构风格、设计风格，而不是标准，只是提供了一组设计原则和约束条件","操作":"<button>删除</button>"}];
+          var headArray = [];
+          function parseHead(oneRow) {
+                        for ( var i in oneRow) {
+                                headArray[headArray.length] = i;
+                         }
+            }
+            function appendTable() {
+                          parseHead(jsonArray[0]);
+                          var div = document.getElementById("div1");
+                          var table = document.createElement("table");
+                          var thead = document.createElement("tr");
+                          for ( var count = 0; count < headArray.length; count++) {
+                                    var td = document.createElement("th");
+                                    td.innerHTML = headArray[count];
+                                    thead.appendChild(td);
+                           }
+                           table.appendChild(thead);
+                          for ( var tableRowNo = 0; tableRowNo < jsonArray.length; tableRowNo++) {
+                                    var tr = document.createElement("tr");
+                                    for ( var headCount = 0; headCount < headArray.length; headCount++) {
+                                            var cell = document.createElement("td");
+                                            cell.innerHTML = jsonArray[tableRowNo][headArray[headCount]];
+                                            tr.appendChild(cell);
+                                    }
+                                    table.appendChild(tr);
+                         }
+                          div.appendChild(table);
+        }
+
+</script>
+    <style>
+        table {
+            width: 900px;
+            padding: 0 ;
+            margin: 20 auto;
+            border-collapse: collapse;
+        }
+        td,th {
+            border: 1px solid #ddd;
+            padding: 6px 6px 6px 12px;
+            color: #4f6b72;
+            text-align: center;
+        }
+        th {
+            background: #d3d3d3;
+
+        }
+    </style>
+</head>
+<body onload="appendTable(jsonArray);">
+         <h3 align="center">json示例代码</h3>
+         <pre>
+                   var jsonArray = [{"编号":"1001","名称":"k-means","描述":"K-means算法是硬聚类算法，是典型的基于原型的目标函数聚类方法的代表","操作":"<button>编辑</button>"},
+                  {"编号":"1002","名称":"restful","描述":"一种软件架构风格、设计风格，而不是标准，只是提供了一组设计原则和约束条件","操作":"<button>删除</button>"}];
+         </pre>
+    <div id="div1"></div>
+</body>
+</html>

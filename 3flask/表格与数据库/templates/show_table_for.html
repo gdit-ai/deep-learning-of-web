@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <th>用户名</th>
+        <th>密码</th>
+    </tr>
+    {% for item in data_list %}
+        <tr>
+        <td>{{ item.user }}</td>
+        <td>{{ item.pwd }}</td>
+        </tr>
+    {%endfor%}
+</table>
+</body>
+</html>

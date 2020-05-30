@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<pre>
+			action="提交到哪里去"
+			method=get/post "提交方式"
+			GET参数的意思是参数显示在URL地址栏上，而post不在地址栏显示参数
+		  <!--enctype="multipart/form.data" 上传文件的时候加的代码,添加在在表单form那一行-->
+		</pre>
+		<form action="提交到哪里去" method="提交方式">
+			<p>
+				用户名：
+				<input type="text" name="uesrname">    <!--文本框-->
+				<!--文本域是text,只能写入少量的文字.文本区域是textarea,可以写入大量的文字, 文本框是单行文本 文本区域是多行 -->
+			</p>
+			<p>
+				密码：
+				<input type="password" name="pwd">       <!--密码框-->
+			</p>
+			<p>
+				性别：
+				男：<input type="radio" name="gender" value="男">    <!--单选框-->
+				女：<input type="radio" name="gender" value="女">
+			</p>
+			<p>
+				爱好：<br>
+				篮球：<input type="checkbox" name ="hobby" value="basketball"><br>      <!--多选框-->
+				足球：<input type="checkbox" name ="hobby" value="football"><br>
+				混球：<input type="checkbox" name ="hobby" value="hunqiuball"><br>
+			</p>
+			<p>
+				学历:<br>
+				<select name ="xueli">   <!--下拉列表框-->
+					<option value="daxue">大学</option>
+					<option value="high">高中</option>
+					<option value="middle">中学</option>
+				</select>
+			</p>
+			<p>
+				个人简介：<br>   <!--文本域-->
+				<textarea name="intro"></textarea>
+			</p>
+			<p>
+				<input type="file" name="pic">  <!--这个是上传文件-->
+			</p>
+			<p>
+				<input type="hidden" name="ip" value="192.168.1.100">   <!--隐藏域-->
+			</p>
+			<p>
+				<input type="submit" value="提交"></input>
+				<input type="reset" value="重置"></input>
+			</p>
+
+		</form>
+	</body>
+</html>

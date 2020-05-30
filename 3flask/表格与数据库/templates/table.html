@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+    </tr>
+
+    <tr>
+        {% if data.user %}
+        <td>{{ data.user }}</td>
+        <td>{{ data.pwd }}</td>
+        {% else %}
+        <td> gdit</td>
+        <td> 99 </td>
+        {%  endif  %}
+    </tr>
+</table>
+
+<script>
+window.onload=function(){
+var data=[{"BrandName":"ACES","Modul":"91906-0227P","Quantity":"3057","Datecode":"W2Y","Remark":"stock"},
+{"BrandName":"ADI","Modul":"ADM706TARZ-REEL","Quantity":"2145","Datecode":"W2Y","Remark":"stock"},
+{"BrandName":"ADI","Modul":"ADR02AUJZ-REEL7","Quantity":"2131","Datecode":"W2Y","Remark":"stock"}];
+
+    var table=document.getElementById("table");
+    for(var i=0;i<data.length;i++){
+                            var row=table.insertRow(table.rows.length);
+                            var c1=row.insertCell(0);
+                            c1.innerHTML=data[i].BrandName;
+                            var c2=row.insertCell(1);
+                            c2.innerHTML=data[i].Modul;
+                            var c3=row.insertCell(2);
+                            c3.innerHTML=data[i].Quantity;
+                            var c4=row.insertCell(3);
+                            c4.innerHTML=data[i].Datecode;
+                            var c5=row.insertCell(4);
+                            c5.innerHTML=data[i].Remark;
+                        }
+}
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+    </tr>
+
+    <tr>
+        {% if data.name %}
+        <td>{{ data.name }}</td>
+        <td>{{ data.age }}</td>
+        {% else %}
+        <td> gdit</td>
+        <td> 99 </td>
+        {%  endif  %}
+
+    </tr>
+</table>
+</body>
+</html>
