@@ -1,0 +1,637 @@
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/100.jpg 709,69,807,209,0 161,87,264,219,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1002.jpg 157,110,382,438,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1007.jpg 438,219,699,567,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1019.jpg 100,92,256,274,0 766,120,912,322,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1023.jpg 207,278,668,973,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/103.jpg 199,155,282,289,0 695,127,795,279,0 897,217,924,247,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1037.jpg 148,184,548,612,0 582,2,978,588,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1050.jpg 244,95,627,609,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1053.jpg 971,26,997,72,0 192,182,238,233,0 627,113,669,183,0 654,26,664,50,0 490,51,511,79,0 577,65,588,84,0 704,83,733,120,0 828,35,848,69,0 763,8,775,27,0 920,1,936,30,0 695,9,706,26,0 365,142,406,191,0 391,131,516,282,0 159,233,199,305,0 49,166,74,196,0 171,119,192,153,0 245,119,268,157,0 788,12,806,39,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1055.jpg 528,248,549,274,0 410,289,429,313,0 367,318,383,340,0 308,326,328,349,0 691,326,708,348,0 718,352,742,382,0 782,258,804,286,0 745,236,769,263,0 548,235,571,257,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1069.jpg 38,15,126,127,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1074.jpg 647,343,689,381,0 328,177,435,293,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1078.jpg 44,13,75,56,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/108.jpg
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1087.jpg 303,60,435,260,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1099.jpg 476,52,684,342,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1111.jpg 331,187,632,591,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1128.jpg 164,25,262,147,1 251,262,325,349,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1152.jpg 91,62,165,156,0 386,82,443,170,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1167.jpg 27,13,266,311,1 330,106,549,380,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1178.jpg 379,163,459,273,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1186.jpg 21,216,68,285,0 245,183,308,271,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1187.jpg 609,370,631,399,0 928,361,955,395,0 957,334,989,381,0 426,180,489,278,0 687,174,756,276,0 39,353,67,386,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1204.jpg 408,96,654,412,0 630,224,842,486,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1206.jpg 49,1,131,110,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1207.jpg 117,33,192,129,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1212.jpg 498,138,768,516,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1224.jpg 442,150,542,294,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1245.jpg 63,118,914,1407,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1253.jpg 807,638,1290,1216,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1254.jpg 368,307,491,451,0 601,187,724,337,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1266.jpg 46,1,119,105,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/127.jpg 86,134,151,225,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1270.jpg 107,163,353,506,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1291.jpg 344,64,412,150,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1312.jpg 326,100,456,244,0 656,108,774,246,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1334.jpg 148,97,234,216,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/136.jpg 280,109,521,414,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1378.jpg 152,144,318,386,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1383.jpg 592,250,646,314,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1400.jpg 189,272,224,323,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1427.jpg 438,222,508,310,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1439.jpg 77,200,257,416,1 344,160,533,387,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1449.jpg 83,17,143,94,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1452.jpg 305,117,601,569,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1462.jpg 267,92,319,153,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1468.jpg 150,40,205,110,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/149.jpg 548,28,684,240,0 620,110,776,240,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1492.jpg 584,100,638,188,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1496.jpg 83,59,215,257,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1508.jpg 390,76,506,238,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1520.jpg 429,168,544,328,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1527.jpg 199,48,296,176,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1545.jpg 380,368,524,552,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1553.jpg 41,152,106,235,0 137,61,265,230,1 21,204,57,251,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1555.jpg 399,250,594,485,0 216,625,283,713,0 792,652,871,756,0 939,637,1003,725,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1556.jpg 138,96,239,268,1 165,311,234,430,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1557.jpg 381,120,783,670,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1558.jpg 690,234,746,314,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1559.jpg 598,189,654,262,0 892,256,928,325,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1574.jpg 462,153,579,312,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1576.jpg 348,249,527,498,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1584.jpg 245,81,338,198,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1586.jpg 156,307,870,1177,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1592.jpg 799,135,852,212,1 600,101,653,180,1 94,72,163,157,0 287,89,349,172,0 448,139,501,216,1 190,25,228,67,0 496,65,563,147,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1598.jpg 404,123,519,266,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/162.jpg 132,105,314,370,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1630.jpg 62,8,129,112,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1640.jpg 206,83,333,241,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1667.jpg 189,46,282,166,1 123,31,186,109,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1675.jpg 95,151,141,204,0 189,89,229,136,0 314,75,359,130,0 431,83,477,136,0 550,68,597,120,0 686,49,732,98,0 746,101,794,158,0 839,65,886,111,0 874,106,921,168,0 626,134,669,185,0 482,139,532,194,0 356,150,405,202,0 214,138,259,192,0 104,281,152,339,0 250,280,298,338,0 383,292,433,350,0 522,278,573,336,0 660,280,718,334,0 809,273,858,329,0 137,400,189,466,0 330,406,382,466,0 522,389,581,449,0 760,380,814,440,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1678.jpg 219,55,335,199,1 365,40,469,172,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/169.jpg 469,127,590,288,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1709.jpg 313,159,553,476,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1713.jpg 308,172,754,886,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1714.jpg 501,99,645,288,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1752.jpg 176,10,566,442,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/177.jpg 92,1,192,145,1 96,227,167,336,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1772.jpg 248,170,302,239,0 426,337,476,406,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1778.jpg 263,105,516,475,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/18.jpg 368,255,652,698,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1806.jpg 277,171,563,566,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1812.jpg 194,368,219,398,0 392,361,417,396,0 572,395,593,416,0 222,350,230,360,0 250,370,260,384,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1823.jpg 225,0,274,47,0 1,0,32,17,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1829.jpg 115,70,287,279,1 464,62,618,275,1 172,411,320,594,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1830.jpg 268,43,339,161,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1836.jpg 630,26,756,176,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1841.jpg 254,18,546,438,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1847.jpg 654,46,770,218,0 280,54,392,208,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1850.jpg 441,180,558,348,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1852.jpg 258,56,358,230,0 704,78,806,272,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1854.jpg 116,48,232,219,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1859.jpg 267,75,368,210,1 94,94,203,226,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1865.jpg 324,89,388,191,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1882.jpg 429,55,585,251,1 128,46,208,163,1 115,423,196,524,1 530,443,615,549,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1898.jpg 67,25,245,244,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1902.jpg 176,51,224,126,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1905.jpg 60,1,130,81,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1915.jpg 448,88,604,300,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1916.jpg 77,71,162,171,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1920.jpg 44,80,198,320,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1936.jpg 395,60,440,130,0 672,180,723,250,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1947.jpg 148,1,220,107,1 324,128,333,143,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1953.jpg 95,103,247,345,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1958.jpg 714,341,733,364,0 655,341,675,367,0 602,330,623,357,0 536,340,556,364,0 487,340,505,368,0 410,312,431,339,0 328,311,348,337,0 246,304,268,332,0 151,286,177,319,0 61,296,87,322,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1962.jpg 511,554,807,895,0 146,642,247,757,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1965.jpg 81,1,175,130,0 1,1,56,159,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1968.jpg 498,80,566,182,0 882,104,952,224,0 210,118,288,238,0 148,226,218,350,0 498,558,578,672,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/197.jpg 326,102,492,326,0 862,340,1018,552,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1972.jpg 469,160,624,365,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1983.jpg 229,46,322,145,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/1985.jpg 63,0,216,216,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2000.jpg 155,85,310,292,1 479,108,614,311,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2006.jpg 248,75,726,687,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2009.jpg 204,59,315,203,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2014.jpg 319,151,437,274,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2019.jpg 94,12,126,64,1 202,24,228,68,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2024.jpg 258,59,423,269,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/203.jpg 177,43,283,173,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2032.jpg 269,342,672,1000,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2041.jpg 252,160,540,548,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2051.jpg 303,269,818,801,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2069.jpg 58,70,156,212,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2081.jpg 108,160,232,317,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2082.jpg 584,134,698,298,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2088.jpg 77,103,162,224,1 468,117,546,232,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2096.jpg 331,128,391,214,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/210.jpg 312,78,384,175,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2108.jpg 398,62,584,316,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2118.jpg 242,171,294,207,0 61,154,84,184,0 111,193,128,215,0 333,144,353,175,0 293,150,313,178,0 545,161,600,233,0 674,80,704,125,0 732,117,766,177,0 926,145,950,178,0 876,175,886,191,0 904,177,916,195,0 403,233,413,247,0 36,163,53,193,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2131.jpg 269,190,333,266,0 357,170,430,258,0 160,223,232,300,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2140.jpg 241,69,365,267,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2144.jpg 145,67,244,195,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2160.jpg 315,136,344,176,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2176.jpg 538,473,614,573,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2178.jpg 384,117,446,231,1 209,228,260,332,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2181.jpg 217,279,251,319,0 401,234,436,278,0 628,149,664,186,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2188.jpg 327,207,645,630,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2197.jpg 214,154,282,240,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2203.jpg 189,62,274,169,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2210.jpg 242,244,442,484,0 564,172,680,430,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2227.jpg 85,8,201,140,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2233.jpg 128,25,175,98,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2236.jpg 24,3,99,113,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2239.jpg 177,81,355,330,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2240.jpg 336,82,448,244,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/227.jpg 841,83,864,110,0 898,97,922,123,0 812,556,942,695,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2271.jpg 306,182,364,256,0 412,166,480,266,0 588,188,650,264,0 706,136,760,218,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2277.jpg 206,53,352,239,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2311.jpg 608,2,838,258,0 188,142,432,466,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2337.jpg 348,86,461,230,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2346.jpg 483,719,554,826,0 574,684,655,826,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2351.jpg 247,171,316,250,1 14,174,80,254,1 240,54,303,126,1 127,23,194,106,1 30,6,102,101,1 130,176,196,252,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2360.jpg 49,83,174,244,1 245,100,371,248,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2393.jpg 265,57,469,322,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2413.jpg 49,18,164,182,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/242.jpg 375,129,679,609,0 742,549,797,626,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/243.jpg 128,153,393,494,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2447.jpg 411,99,513,252,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2457.jpg 428,182,660,521,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2463.jpg 278,268,384,400,0 536,142,646,294,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2472.jpg 394,312,543,510,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2481.jpg 111,1,337,292,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2486.jpg 284,114,315,157,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2494.jpg 364,358,378,376,0 522,359,535,378,0 685,349,698,367,0 861,345,875,367,0 631,382,637,391,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2497.jpg 52,1,88,43,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2498.jpg 150,124,230,282,0 486,186,564,310,0 860,78,980,278,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2504.jpg 456,116,634,373,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2515.jpg 474,90,579,264,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2547.jpg 390,263,457,352,1 468,293,530,362,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2550.jpg 68,30,104,86,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2556.jpg 721,90,847,246,0 370,80,517,239,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2562.jpg 208,61,431,309,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2579.jpg 644,72,724,174,0 270,42,367,157,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2597.jpg 454,123,492,169,0 587,149,626,190,0 694,201,730,235,0 625,246,651,282,0 333,338,354,374,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2615.jpg 502,90,630,246,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2620.jpg 229,288,275,355,0 264,238,316,306,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2622.jpg 231,165,521,543,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2623.jpg 366,160,526,372,0 514,130,646,334,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2625.jpg 112,1,472,478,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2637.jpg 54,26,125,123,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2657.jpg 468,68,544,160,0 387,73,452,162,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2666.jpg 117,402,200,484,0 689,151,707,174,0 780,100,797,118,0 871,128,889,151,0 549,186,559,201,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2671.jpg 365,130,388,161,0 445,185,459,209,0 780,145,808,180,0 706,143,719,159,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/268.jpg 410,186,604,418,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2695.jpg 243,85,359,247,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/27.jpg 395,0,565,194,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2704.jpg 36,126,201,366,0 272,128,477,377,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2714.jpg 483,180,588,312,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2736.jpg 269,68,402,263,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2750.jpg 491,256,584,398,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2768.jpg 272,386,544,751,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2770.jpg 232,30,269,86,1 444,190,473,218,1 258,49,299,104,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2773.jpg 241,198,353,321,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2781.jpg 33,0,159,153,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2792.jpg 197,72,395,290,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2797.jpg 173,82,219,137,1 67,95,112,148,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2800.jpg 305,51,439,237,1 111,45,149,94,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2811.jpg 782,82,876,278,0 260,152,404,340,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2816.jpg 304,190,614,580,0 686,94,1024,514,0 0,94,258,470,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2822.jpg 144,179,527,657,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2832.jpg 544,46,900,474,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2837.jpg 408,198,472,300,0 540,130,608,232,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2842.jpg 104,47,150,109,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2849.jpg 75,62,142,148,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2864.jpg 355,166,599,451,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2875.jpg 256,189,560,539,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/289.jpg 87,324,795,1155,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2891.jpg 354,52,468,218,0 648,210,824,346,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2895.jpg 129,121,438,650,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2909.jpg 117,68,263,273,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2913.jpg 276,128,395,314,0 661,209,771,398,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2930.jpg 49,0,163,145,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2936.jpg 110,194,194,302,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2948.jpg 376,200,586,410,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2963.jpg 312,126,442,302,0 530,92,632,280,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2976.jpg 620,162,834,516,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2977.jpg 196,139,821,742,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2986.jpg 253,66,337,182,1 444,186,487,250,0 47,135,80,176,0 129,149,162,195,0 361,213,403,267,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/2988.jpg 807,43,874,132,0 480,53,555,147,0 133,54,205,147,0 242,104,273,141,0 303,120,324,147,0 81,97,102,132,0 0,113,12,150,0 41,117,67,139,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3002.jpg 129,45,191,129,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/301.jpg 375,87,512,289,0 583,102,729,301,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3019.jpg 179,153,206,200,0 305,161,341,212,0 460,163,495,210,0 534,180,569,225,0 702,174,735,218,0 806,140,838,191,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3022.jpg 122,60,244,238,0 816,34,956,264,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3038.jpg 368,23,482,179,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3043.jpg 286,177,377,328,1 362,408,390,458,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3049.jpg 528,388,584,472,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3055.jpg 443,135,473,171,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3070.jpg 816,144,855,200,0 794,173,838,201,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3076.jpg 289,203,380,350,1 560,258,599,353,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3082.jpg 130,164,202,260,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3087.jpg 162,102,311,312,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3090.jpg 46,62,124,197,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3096.jpg 75,34,126,100,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3105.jpg 35,26,115,118,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3142.jpg 236,28,384,209,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3155.jpg 68,64,243,264,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3169.jpg 392,66,672,460,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3177.jpg 420,222,657,522,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3178.jpg 108,51,280,312,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3183.jpg 303,192,730,778,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3196.jpg 550,87,684,286,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3216.jpg 364,62,391,96,0 370,107,396,145,0 323,119,351,155,0 281,165,318,214,0 322,186,351,221,0 389,159,421,202,0 451,122,473,153,0 494,112,522,148,0 479,154,509,192,0 424,164,464,214,0 566,145,593,179,0 563,124,586,154,0 609,107,633,143,0 641,107,668,146,0 641,161,671,200,0 603,201,629,239,0 674,206,709,254,0 529,225,569,277,0 554,288,594,341,0 663,277,701,324,0 730,268,767,318,0 380,298,417,346,0 193,292,238,355,0 225,193,268,256,0 630,329,673,383,0 752,318,792,372,0 829,312,872,369,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3234.jpg 168,548,199,590,0 249,544,277,580,0 361,554,394,602,0 442,563,465,603,0 799,566,835,618,0 739,637,762,673,0 697,590,717,615,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3245.jpg 430,250,568,430,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3255.jpg 297,378,462,603,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3258.jpg 214,94,354,268,0 674,76,796,252,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/327.jpg 193,48,290,189,0 505,57,562,158,0 732,80,833,225,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3270.jpg 112,44,358,394,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3275.jpg 532,1,723,277,0 73,40,355,457,1 503,340,731,596,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3285.jpg 330,56,432,208,0 562,38,662,176,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3292.jpg 440,154,530,312,0 554,178,630,318,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3309.jpg 69,1,365,418,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/333.jpg 176,146,232,226,0 486,134,544,216,0 802,122,856,198,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3339.jpg 249,88,421,302,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3346.jpg 351,98,595,461,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3357.jpg 177,173,238,256,0 465,170,496,215,0 568,37,607,92,0 382,42,417,90,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3361.jpg 179,458,220,526,0 569,449,620,521,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3364.jpg 393,142,419,172,0 807,117,833,149,0 89,432,106,457,0 87,373,98,393,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3381.jpg 300,116,439,289,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/339.jpg 347,416,442,553,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3396.jpg 134,93,347,387,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3409.jpg 292,86,415,251,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3424.jpg 140,90,211,187,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3427.jpg 140,63,315,311,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3430.jpg 283,191,467,356,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3432.jpg 253,171,561,583,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3433.jpg 524,62,604,170,0 828,58,912,168,0 150,50,228,154,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3435.jpg 166,164,356,412,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3455.jpg 436,128,548,236,0 584,28,684,160,0 150,432,248,554,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3459.jpg 255,454,466,714,1 263,113,443,352,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3466.jpg 359,79,423,181,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3482.jpg 566,106,676,260,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3505.jpg 351,212,708,696,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3506.jpg 159,70,358,328,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3508.jpg
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3516.jpg 279,168,401,341,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3519.jpg 71,844,96,870,0 914,817,927,839,0 890,794,904,816,0 420,723,429,745,0 465,771,481,797,0 315,707,327,729,0 188,774,202,797,0 269,918,282,938,0 551,800,560,817,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3528.jpg 526,266,598,340,0 703,91,737,143,0 756,49,952,330,0 233,405,287,477,0 402,331,450,398,0 546,97,559,113,0 133,501,208,587,0 491,293,542,348,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3545.jpg 414,236,576,462,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3546.jpg 107,92,330,425,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3549.jpg 184,48,224,98,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3569.jpg 350,158,648,516,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/357.jpg 24,199,30,207,0 879,205,890,217,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3571.jpg 98,214,195,353,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3616.jpg 797,423,825,472,0 644,430,654,449,0 28,446,39,463,0 162,437,174,451,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3626.jpg 116,124,266,342,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3633.jpg 238,250,294,358,0 296,268,358,364,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3637.jpg 178,35,252,122,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/364.jpg 145,105,194,176,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3644.jpg 143,115,352,389,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3648.jpg 246,198,362,432,0 606,304,741,466,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3655.jpg 248,114,380,304,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3663.jpg 254,246,404,430,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3668.jpg 345,92,436,211,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/367.jpg 344,432,426,498,0 416,150,480,222,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3675.jpg 175,47,323,236,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3677.jpg 606,649,652,695,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3685.jpg 19,55,83,132,0 312,48,375,142,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3692.jpg 9,1,183,146,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3724.jpg 406,82,604,350,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3729.jpg 212,129,285,228,0 408,137,425,162,0 821,145,870,209,0 674,137,686,152,0 45,117,70,146,0 96,139,118,160,0 181,145,198,164,0 365,144,374,156,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3733.jpg 413,125,615,398,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3740.jpg 531,169,780,587,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3749.jpg 348,98,426,206,0 602,86,700,200,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3753.jpg 170,260,258,384,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3788.jpg 484,318,542,412,0 214,306,282,402,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3791.jpg 105,57,169,153,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3802.jpg 264,96,400,256,0 608,194,708,334,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3813.jpg 123,44,311,307,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3817.jpg 452,271,551,407,0 660,310,786,424,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3821.jpg 342,182,432,308,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3835.jpg 614,173,755,382,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3851.jpg 300,90,416,242,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3854.jpg 174,102,432,424,0 750,290,814,376,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3879.jpg 367,225,540,439,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3882.jpg 404,133,618,458,1 107,280,321,574,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3883.jpg 431,241,469,293,0 969,716,1021,768,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3895.jpg 13,1,425,400,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3900.jpg 287,125,357,240,0 657,137,724,259,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3902.jpg 162,41,256,187,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/391.jpg 240,156,422,280,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3912.jpg 1,280,511,625,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3926.jpg 55,26,87,64,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/393.jpg 86,103,350,459,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3946.jpg 184,48,314,234,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3947.jpg 444,210,501,291,0 492,706,561,817,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3948.jpg 147,294,282,478,1 74,141,119,194,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3958.jpg 382,279,453,384,0 516,351,604,452,0 647,333,745,433,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3959.jpg 72,167,287,514,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3963.jpg 445,257,577,410,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/3977.jpg 326,162,518,460,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4003.jpg 484,144,586,288,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4006.jpg 257,148,370,317,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4009.jpg 506,144,616,278,0 692,90,854,326,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4014.jpg 160,67,271,222,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4036.jpg 41,6,221,225,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4059.jpg 593,112,621,160,0 573,139,596,185,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/406.jpg 299,138,570,480,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4081.jpg 220,6,796,652,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4105.jpg 239,85,461,439,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4110.jpg 343,157,585,510,0 926,76,950,118,0 917,412,939,447,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4117.jpg 236,105,458,362,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4124.jpg 432,120,548,270,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4147.jpg 412,246,472,314,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4160.jpg 70,408,180,602,0 84,15,175,159,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4168.jpg 203,138,323,344,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4174.jpg 448,82,540,214,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4175.jpg 527,119,825,504,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4176.jpg 293,184,416,333,0 673,160,774,281,0 913,548,958,597,0 993,530,1023,580,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4189.jpg 212,170,296,284,0 456,112,528,230,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4210.jpg 222,232,796,1099,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4224.jpg 590,103,644,176,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4226.jpg 20,16,126,134,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4231.jpg 349,150,560,396,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4246.jpg 92,87,198,208,0 243,20,379,203,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4252.jpg 622,125,698,226,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4265.jpg 232,392,562,776,0 575,32,929,505,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/427.jpg 786,40,934,208,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4272.jpg 464,106,650,339,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4279.jpg 197,136,258,194,0 282,100,326,163,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4283.jpg 602,44,826,352,0 714,520,812,614,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4304.jpg 285,69,450,279,1 103,45,251,229,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4310.jpg 274,118,434,364,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4311.jpg 430,122,664,412,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4315.jpg 210,320,339,554,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4339.jpg 357,88,400,156,1 142,25,189,96,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/436.jpg 347,70,462,262,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4368.jpg 97,131,346,479,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4373.jpg 146,206,310,429,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4374.jpg 379,152,712,611,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/439.jpg 376,123,548,349,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4396.jpg 211,51,601,493,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4398.jpg 238,74,380,245,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4404.jpg 358,95,451,209,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4417.jpg 269,50,398,227,1 70,41,224,235,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4419.jpg 364,41,419,97,0 115,46,151,85,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4425.jpg 739,204,774,250,0 612,249,675,337,0 410,244,470,321,0 175,316,249,380,0 46,307,88,353,0 254,248,292,288,0 526,217,567,283,0 90,305,129,356,0 366,212,397,258,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4426.jpg 193,312,454,635,0 423,204,684,513,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4429.jpg 390,189,627,507,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4434.jpg 242,146,380,326,0 584,26,716,252,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4435.jpg 219,82,462,517,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4436.jpg 99,191,361,555,1 447,90,713,434,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4437.jpg 360,215,646,537,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4438.jpg 525,355,571,414,0 682,405,688,415,0 621,405,628,414,0 753,396,767,417,0 825,406,838,424,0 964,429,976,447,0 5,375,21,402,0 45,340,60,359,0 104,373,124,399,0 349,384,354,391,0 708,401,714,410,0 817,416,828,430,0 579,410,590,419,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4439.jpg 436,196,850,548,0 58,14,414,350,0 404,612,726,889,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4452.jpg 368,12,664,314,0 157,206,557,827,0 534,281,987,876,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4474.jpg 36,121,124,232,0 523,52,610,157,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4480.jpg 388,378,564,538,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4487.jpg 478,107,515,153,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4490.jpg 642,74,820,303,0 430,60,529,167,0 494,559,524,597,0 189,586,204,603,0 179,566,188,578,0 206,574,215,586,0 265,595,273,608,0 362,552,376,570,0 273,540,281,552,0 249,552,257,563,0 20,553,40,573,0 155,595,163,605,0 430,580,440,593,0 196,546,203,558,0 172,625,181,639,0 162,614,171,627,0 254,569,264,581,0 230,546,238,558,0 232,585,241,593,0 270,622,279,634,0 293,557,301,568,0 189,539,198,552,0 169,551,179,565,0 231,621,242,634,0 296,599,301,608,0 283,583,289,592,0 206,538,214,544,0 171,542,180,551,0 236,591,246,603,0 208,591,214,597,0 178,582,183,591,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4505.jpg 220,98,410,362,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4507.jpg 159,146,450,527,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4516.jpg 264,46,414,243,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4520.jpg 266,258,406,476,0 596,108,766,322,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/453.jpg 98,109,126,147,0 251,28,433,252,1 188,142,213,183,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4531.jpg 210,87,573,696,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4533.jpg 542,255,747,472,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4535.jpg 132,99,173,152,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/455.jpg 243,62,371,238,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4551.jpg 700,88,842,260,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4553.jpg 285,156,494,454,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4578.jpg 119,46,229,188,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/458.jpg 168,32,378,341,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4588.jpg 662,216,804,426,0 618,50,746,300,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4601.jpg 286,143,509,476,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4603.jpg 230,115,578,627,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4605.jpg 386,28,804,668,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4615.jpg 55,49,262,314,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4620.jpg 643,93,740,208,0 146,128,189,181,0 284,74,346,157,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4622.jpg 495,367,539,429,0 157,337,205,407,0 278,324,338,405,1 645,272,682,386,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4631.jpg 124,61,197,159,0 122,59,195,157,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4655.jpg 358,130,472,278,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4659.jpg 608,224,668,302,0 222,208,282,312,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4675.jpg 22,27,238,310,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4681.jpg 668,164,790,328,0 303,57,410,224,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4701.jpg 258,192,318,266,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4733.jpg 272,258,436,459,0 287,121,469,338,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4756.jpg 582,60,704,236,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/476.jpg 52,64,143,169,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4768.jpg 78,44,136,117,0 829,96,897,183,0 626,310,681,378,0 519,301,577,363,0 63,537,104,593,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4773.jpg 284,119,516,455,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4782.jpg 394,205,569,424,0 765,154,945,385,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4791.jpg 287,160,654,611,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4795.jpg 50,1,232,291,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4803.jpg 198,117,296,250,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4815.jpg 206,328,312,446,0 642,192,746,324,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4816.jpg 252,152,318,204,0 188,280,250,334,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4822.jpg 431,207,523,297,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4844.jpg 428,72,540,214,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4858.jpg 126,41,227,171,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4860.jpg 221,67,642,589,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4862.jpg 169,59,287,246,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4884.jpg 34,37,105,127,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4895.jpg 266,91,368,221,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4898.jpg 382,85,519,297,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4917.jpg 351,219,519,387,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4920.jpg 64,65,103,104,1 210,64,248,103,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4932.jpg 148,148,223,254,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4944.jpg 133,46,238,195,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4956.jpg 369,125,584,447,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4965.jpg 467,57,580,230,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4969.jpg 50,6,316,380,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4982.jpg 256,192,390,380,0 466,230,630,454,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4987.jpg 236,124,344,252,0 578,106,654,216,0 736,310,854,458,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/4988.jpg 282,33,334,108,0 294,115,330,186,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5011.jpg 159,28,236,123,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5013.jpg 114,80,398,455,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5017.jpg 202,210,300,350,0 364,252,446,368,0 548,308,638,418,0 750,202,852,358,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5046.jpg 128,151,284,338,0 540,243,640,383,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5061.jpg 444,161,509,231,1 197,158,259,212,0 665,350,734,431,0 147,452,229,545,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5070.jpg 181,139,505,592,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5083.jpg 163,120,362,382,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5086.jpg 506,184,754,492,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/509.jpg 414,66,560,272,0 524,64,656,270,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5108.jpg 92,35,152,114,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5109.jpg 158,30,640,723,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5110.jpg 203,67,252,138,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5112.jpg 378,114,606,476,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5114.jpg 270,192,423,405,0 685,351,817,522,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5136.jpg 353,32,471,183,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5146.jpg 382,294,621,598,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5153.jpg 172,49,448,436,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5163.jpg 148,120,232,250,0 410,56,478,178,0 634,144,702,250,0 850,100,908,226,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5178.jpg 188,38,336,191,0 61,214,123,283,0 860,219,921,285,0 797,174,846,231,0 859,144,875,172,0 789,130,814,160,0 588,156,605,185,0 553,138,572,165,0 954,140,987,181,0 1005,156,1024,190,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5188.jpg 472,248,584,410,0 708,18,792,136,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5201.jpg 214,1,465,294,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5208.jpg 728,208,820,356,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5209.jpg 695,200,730,273,0 645,228,681,266,0 539,193,571,221,0 431,214,463,255,0 197,296,206,308,0 52,315,65,328,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5215.jpg 83,163,451,664,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5218.jpg 350,124,488,284,0 662,4,802,136,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5230.jpg 510,80,644,278,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5231.jpg 320,96,399,210,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5244.jpg 490,210,734,548,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5251.jpg 764,242,864,408,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5253.jpg 348,277,415,369,0 513,269,593,380,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5254.jpg 416,145,592,382,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5260.jpg 424,103,564,313,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5265.jpg 462,224,535,312,0 328,52,378,133,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5277.jpg 340,507,459,648,1 80,525,172,642,0 661,519,768,646,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5281.jpg 512,104,802,500,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5289.jpg 163,88,336,280,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5294.jpg 126,41,221,194,1 340,23,399,103,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5305.jpg 461,187,754,560,0 19,475,131,728,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5306.jpg 267,318,699,925,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5326.jpg 111,41,179,117,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5340.jpg 61,79,241,356,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5346.jpg 418,267,497,386,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5363.jpg 156,196,384,372,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5364.jpg 44,1,118,114,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5381.jpg 376,98,508,278,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5383.jpg 556,92,620,192,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5401.jpg 231,322,527,781,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/542.jpg 29,9,120,128,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5421.jpg 680,171,836,368,0 438,126,573,318,0 124,88,286,278,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5423.jpg 422,165,546,367,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5426.jpg 57,115,92,151,0 223,81,257,129,1 155,103,192,146,0 370,37,388,60,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/544.jpg 156,294,348,556,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5443.jpg 357,1168,528,1444,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5456.jpg 871,171,919,236,0 608,218,630,247,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5462.jpg 368,324,628,556,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5470.jpg 215,177,283,273,0 310,60,327,86,0 394,80,408,101,0 783,195,848,296,0 513,40,539,70,0 673,38,692,64,0 752,99,770,122,0 899,113,914,139,0 393,98,404,114,0 355,95,371,113,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5478.jpg 413,117,443,149,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5484.jpg 212,152,318,280,0 418,252,506,370,0 182,474,242,548,0 362,458,448,550,0 692,98,834,270,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/549.jpg 277,245,655,782,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5495.jpg 152,166,291,340,1 86,314,123,349,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5497.jpg 296,190,348,227,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5503.jpg 82,296,118,337,0 128,288,154,319,0 186,308,212,339,0 207,292,227,319,0 245,309,270,335,0 270,304,291,331,0 307,284,327,311,0 313,318,336,350,0 352,292,375,321,0 404,300,427,332,0 416,287,435,311,0 445,307,464,331,0 488,306,506,330,0 526,297,545,319,0 529,324,548,350,0 556,314,574,340,0 558,379,579,406,0 479,376,502,405,0 399,385,422,414,0 298,373,321,403,0 313,419,332,441,0 208,368,234,403,0 93,397,120,431,0 938,395,961,427,0 882,312,906,341,0 862,296,882,322,0 795,312,815,336,0 817,322,840,350,0 833,386,856,418,0 719,291,739,317,0 762,337,781,358,0 721,323,741,349,0 759,391,782,415,0 678,395,698,419,0 673,328,693,358,0 678,308,696,330,0 653,311,669,337,0 634,301,652,326,0 617,320,633,343,0 580,307,600,328,0 608,384,628,410,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5508.jpg 398,384,1024,684,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5525.jpg 0,44,64,176,0 56,157,142,295,0 74,137,159,286,0 348,146,456,369,0 446,186,509,289,0 515,186,597,313,0 599,130,717,329,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/553.jpg 342,262,752,876,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5533.jpg 601,85,859,452,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5542.jpg 104,120,230,282,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5544.jpg 178,91,329,294,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5558.jpg 504,188,770,550,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5561.jpg 222,74,348,218,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5568.jpg 80,62,231,265,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/557.jpg 265,97,322,200,1 240,79,299,172,0 461,135,518,228,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5574.jpg 241,117,585,567,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5589.jpg 304,154,424,330,0 582,60,718,252,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5602.jpg 76,99,192,247,0 265,75,400,248,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5607.jpg 222,177,505,548,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5634.jpg 152,19,226,148,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5635.jpg 64,0,144,98,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5645.jpg 495,163,587,306,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5654.jpg 312,68,424,244,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5673.jpg 257,83,350,247,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5679.jpg 119,115,245,281,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5683.jpg 197,240,443,487,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5686.jpg 118,87,321,308,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/569.jpg 578,833,679,947,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5704.jpg 47,14,158,127,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/571.jpg 248,66,762,730,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5758.jpg 180,133,260,258,0 127,425,249,523,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5763.jpg 348,64,460,206,1 104,62,212,203,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5771.jpg 139,82,248,206,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5775.jpg 301,283,497,463,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5776.jpg 333,378,438,525,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5804.jpg 91,99,125,145,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5811.jpg 25,282,67,340,0 64,235,121,321,0 207,235,251,294,0 371,175,431,269,0 450,96,560,251,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5836.jpg 514,180,612,286,0 302,298,374,372,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5838.jpg 206,104,324,246,0 648,232,758,384,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5839.jpg 482,684,560,801,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/584.jpg 270,418,478,682,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5844.jpg 393,96,591,354,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5855.jpg 596,287,755,512,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5856.jpg 254,70,475,351,1 62,88,266,356,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5878.jpg 382,228,598,484,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5896.jpg 689,189,732,233,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5900.jpg 202,1,417,257,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5927.jpg 224,156,380,368,0 460,198,610,400,0 696,268,854,454,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5949.jpg 370,328,588,568,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5953.jpg 277,20,325,83,0 327,123,363,169,0 746,0,772,21,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5962.jpg 387,107,452,207,1 88,86,200,224,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5974.jpg 55,42,136,139,1 141,121,187,174,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5976.jpg 290,350,717,929,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5980.jpg 417,134,520,264,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5982.jpg 167,78,320,264,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5993.jpg 253,150,522,475,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5998.jpg 657,190,701,262,0 463,233,513,296,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/5999.jpg 434,31,538,160,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6005.jpg 440,274,520,398,0 628,316,702,414,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6025.jpg 394,286,588,560,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6029.jpg 805,224,859,284,0 975,161,1019,207,0 885,55,922,104,0 416,102,533,233,0 148,98,278,213,0 661,225,709,285,0 551,215,589,262,0 709,127,738,167,0 791,172,832,226,0 748,215,796,276,0 649,164,700,217,0 975,285,1023,341,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6036.jpg 747,199,879,370,0 245,92,391,291,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6042.jpg 174,208,298,332,0 666,86,818,230,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6048.jpg 338,144,632,520,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6058.jpg 280,332,438,546,0 568,198,736,424,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/606.jpg 490,50,550,152,0 940,78,1008,162,0 6,70,60,154,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6078.jpg 670,208,766,310,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6081.jpg 332,325,620,583,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6084.jpg 205,66,348,259,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6085.jpg 403,123,606,377,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6099.jpg 222,100,295,189,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/610.jpg 253,78,384,251,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6104.jpg 54,60,101,123,0 452,396,584,533,0 577,101,612,157,0 882,99,946,180,0 793,359,908,517,0 800,90,831,143,0 259,135,301,177,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6110.jpg 51,31,121,129,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6126.jpg 119,86,264,258,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6128.jpg 94,114,178,216,0 248,166,368,330,0 746,162,832,266,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/614.jpg 228,168,298,278,0 726,176,786,284,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6145.jpg 425,122,581,335,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6148.jpg 233,245,828,1028,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6149.jpg 103,1,584,454,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6170.jpg 41,53,141,181,1 202,298,273,379,1 365,94,455,184,1 29,272,118,386,1 374,282,456,378,1 202,61,283,165,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6179.jpg 368,174,404,225,0 471,177,505,221,0 801,219,837,264,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6205.jpg 292,101,392,252,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6210.jpg 720,82,852,246,0 202,84,340,258,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6220.jpg 130,50,222,167,1 17,134,52,178,0 237,177,289,248,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6231.jpg 276,107,356,189,1 491,67,567,193,0 153,251,233,358,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6255.jpg 548,1015,607,1077,0 424,960,482,1029,0 244,937,287,994,0 379,968,428,1039,0 198,1132,250,1186,0 51,920,94,973,0 70,829,107,868,0 255,796,294,845,0 452,865,491,912,0 0,914,25,979,0 0,871,31,915,0 103,917,143,968,0 95,771,119,812,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/627.jpg 133,30,177,87,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6273.jpg 96,123,421,473,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6278.jpg 150,82,317,324,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6292.jpg 253,124,348,258,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6293.jpg 79,56,177,187,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6300.jpg 692,16,834,292,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6314.jpg 438,111,549,264,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6347.jpg 58,17,128,129,1 144,82,156,99,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/6357.jpg 185,231,211,255,0 69,242,90,258,0 172,241,189,257,0 335,174,367,213,0 258,189,287,231,0 427,230,450,261,0 450,186,489,232,1 519,216,544,251,0 612,84,658,146,0 831,179,871,215,0 775,234,808,264,0 1006,258,1024,279,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/642.jpg 135,46,184,92,0 257,42,296,91,1 32,49,70,94,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/652.jpg 359,93,477,225,1 167,115,266,226,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/656.jpg 42,169,68,218,0 558,131,596,177,0 502,128,545,199,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/666.jpg 285,237,670,739,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/683.jpg 468,351,603,504,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/698.jpg 412,236,611,499,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/702.jpg 387,112,440,177,0 197,57,236,119,0 556,149,603,192,0 968,110,1018,178,0 770,159,822,205,0 701,92,735,150,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/712.jpg 375,115,682,563,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/713.jpg 270,1,422,171,0 147,46,327,313,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/716.jpg 392,156,606,448,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/750.jpg 498,156,560,256,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/77.jpg 442,175,501,265,0 478,40,521,99,0 331,90,374,141,0 163,80,219,156,0 98,203,164,278,0 626,17,678,89,0 767,94,816,158,0 860,133,930,223,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/773.jpg 117,9,212,117,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/778.jpg 413,105,728,511,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/779.jpg 470,106,577,286,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/780.jpg 256,286,681,828,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/783.jpg 532,88,608,176,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/784.jpg 291,109,334,164,0 388,128,430,178,0 504,159,543,205,0 611,99,654,152,0 718,104,760,149,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/79.jpg 203,98,477,547,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/793.jpg 516,86,712,390,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/800.jpg 410,108,607,421,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/816.jpg 174,113,475,497,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/821.jpg 421,76,559,290,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/843.jpg 530,278,674,504,0 664,102,876,440,0 120,118,372,450,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/848.jpg 56,59,222,252,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/850.jpg 399,159,603,441,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/866.jpg 108,66,162,135,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/881.jpg 511,190,770,560,1 137,148,375,448,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/890.jpg 268,185,545,536,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/894.jpg 200,65,256,152,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/902.jpg 173,99,343,363,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/915.jpg 233,646,264,704,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/916.jpg 228,51,532,417,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/928.jpg 163,53,251,175,1
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/951.jpg 405,201,519,366,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/963.jpg 241,139,410,430,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/967.jpg 370,147,432,235,0
+E:\hujianhua\课程相关\图像识别\代码\口罩检测\keras-yolo3-wear/VOCdevkit/VOC2007/JPEGImages/985.jpg 806,82,884,182,0 694,32,766,120,0 540,44,594,108,0 334,0,396,84,0 186,142,264,250,0
