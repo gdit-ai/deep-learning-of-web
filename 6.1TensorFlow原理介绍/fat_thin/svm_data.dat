@@ -1,0 +1,57 @@
+%YAML:1.0
+---
+opencv_ml_svm:
+   format: 3
+   svmType: C_SVC
+   kernel:
+      type: LINEAR
+   C: 2.6699999999999999e+00
+   term_criteria: { epsilon:1.1920928955078125e-07, iterations:1000 }
+   var_count: 2
+   class_count: 3
+   class_labels: !!opencv-matrix
+      rows: 3
+      cols: 1
+      dt: i
+      data: [ 1, 2, 3 ]
+   sv_total: 3
+   support_vectors:
+      - [ 1.24959335e-01, -2.49935344e-01 ]
+      - [ 1.05263159e-01, -1.57894731e-01 ]
+      - [ 1.33854479e-01, -1.34032145e-01 ]
+   uncompressed_sv_total: 18
+   uncompressed_support_vectors:
+      - [ 120., 36. ]
+      - [ 146., 72. ]
+      - [ 134., 45. ]
+      - [ 179., 80. ]
+      - [ 199., 73. ]
+      - [ 200., 73. ]
+      - [ 120., 35. ]
+      - [ 151., 47. ]
+      - [ 137., 35. ]
+      - [ 200., 80. ]
+      - [ 138., 35. ]
+      - [ 200., 74. ]
+      - [ 172., 74. ]
+      - [ 178., 80. ]
+      - [ 122., 37. ]
+      - [ 128., 41. ]
+      - [ 147., 40. ]
+      - [ 140., 49. ]
+   decision_functions:
+      -
+         sv_count: 1
+         rho: 7.4029686341587944e+00
+         alpha: [ 1. ]
+         index: [ 0 ]
+      -
+         sv_count: 1
+         rho: 7.9999998675951218e+00
+         alpha: [ 1. ]
+         index: [ 1 ]
+      -
+         sv_count: 1
+         rho: 1.2153787687390018e+01
+         alpha: [ 1. ]
+         index: [ 2 ]
